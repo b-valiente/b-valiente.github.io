@@ -7,7 +7,7 @@ date: 2019
 published: true
 labels:
   - Java
-summary: "My partner and I recreated the brick breaker game in Java for our final project in ICS 111"
+summary: "Simple drawing game made in Java."
 ---
 
 <div class="text-center p-4">
@@ -17,13 +17,13 @@ summary: "My partner and I recreated the brick breaker game in Java for our fina
 </div>
 
 <h2 id="Introduction">Introduction</h2>
-For our final project me and my partner decided to recreate the famous "Bricker Breaker game using Java and a class known as "EZ.java" 
+We needed to develop a straightforward "paint" program that would accept mouse input from users and let them draw on the screen.
 
 <h2 id="About">About</h2>
 
-The game is simply, break the bricks with the ball and earn powerups such as double or triple the balls when certain bricks were broken. The game gave you three lives and kept track of high scores. For this project, I developed the movement of the ball, controls for the paddle, and the graphics.
+An easy-to-use graphical user interface (GUI) program that lets the user paint using a selection of colors from the keyboard and a position for the brush strokes from the mouse.
 
 <h2 id="learning-outcomes">Learning Outcomes</h2>
 
-This was my first programming class I took so it was moderately difficult in terms of programming. I learned how to collaborate with another person to achieve the end product. This program also helped me better grasp the main concept of Java which is Object Orientated Programming.
+I learned more about Java variables and user input with this project. It also taught me how to properly assign variable types, organize my code, and deal with documentation when programming.
 ```
