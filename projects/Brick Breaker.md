@@ -2,7 +2,6 @@
 layout: project
 type: project
 image: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C-bpv4Kh5Bo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 title: "Brick Breaker"
 date: 2019
 published: true
