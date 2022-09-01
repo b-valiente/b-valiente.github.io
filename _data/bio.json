@@ -9,10 +9,10 @@
     "summary": "I am studying for a B.A. in Computer Science with a focus on Cyber Secuirty at the University of Hawaii. I expect to graduate in Fall, 2023.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "b-valiente", "url": "http://github.com/b-valiente" },
+      { "network": "linkedin", "username": "bradleyvaliente", "url": "www.linkedin.com/in/bradley-valiente-3420b5167" },
+      { "network": "twitter", "username": "bvalie", "url": "http://twitter.com/bvalie" },
+      { "network": "instagram", "username": "bvalie", "url": "http://instagram.com/bvalie" }
     ]
   },
   "interests": [
