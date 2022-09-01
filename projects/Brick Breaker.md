@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/BrickBreakerScreen.png
 title: "Brick Breaker"
 date: 2019
 published: true
