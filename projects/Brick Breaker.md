@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-<img width="200px" src= "image: img/BrickBreakerScreen.png" class="img-thumbnail" >
+image: img/BrickBreakerScreen.png
 title: "Brick Breaker"
 date: 2019
 published: true
