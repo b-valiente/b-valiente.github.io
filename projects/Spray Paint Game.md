@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/BrickBreakerScreen.png
-title: "Brick Breaker"
+image: img/Screen.png
+title: "Spray Paint Game"
 date: 2019
 published: true
 labels:
@@ -11,9 +11,9 @@ summary: "My partner and I recreated the brick breaker game in Java for our fina
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/Gameplay1.png" class="img-thumbnail" >
-  <img width="200px" src="../img/Gameplay2.png" class="img-thumbnail" >
-  <img width="200px" src="../img/GameOver.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Game1.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Game2.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Game3.png" class="img-thumbnail" >
 </div>
 
 <h2 id="Introduction">Introduction</h2>
