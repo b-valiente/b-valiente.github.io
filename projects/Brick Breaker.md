@@ -7,7 +7,6 @@ date: 2019
 published: true
 labels:
   - Java
-  - 
 summary: "My partner and I recreated the brick breaker game in Java for our final project in ICS 111"
 ---
 
@@ -22,5 +21,9 @@ For our final project me and my partner decided to recreate the famous "Bricker 
 
 <h2 id="About">About</h2>
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+The game is simply, break the bricks with the ball and earn powerups such as double or triple the balls when certain bricks were broken. The game gave you three lives and kept track of high scores. For this project, I developed the movement of the ball, controls for the paddle, and the graphics.
+
+<h2 id="Learning Outcomes">Learning Outcomes</h3>
+
+This was my first programming class I took so it was moderately difficult in terms of programming. I learned how to collaborate with another person to achieve the end product. This program also helped me better grasp the main concept of Java which is Object Orientated Programming.
 ```
