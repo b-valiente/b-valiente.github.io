@@ -25,11 +25,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", ]
+      "keywords": [ "C", "C++", "Java", "Javascript"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Linux", "Git/GitHub",]
+      "keywords": [ "MacOS", "Windows", "Linux", "Git/GitHub"]
     }
   ],
   "education": [
@@ -72,12 +72,12 @@
   "volunteer": [
     {
      "TBA"
-      ]
+      
     },
     {
       "TBA"
       ]
-    }
+    
   ],
  
   "references": [
