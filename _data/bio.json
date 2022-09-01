@@ -11,8 +11,6 @@
     "profiles": [
       { "network": "github", "username": "b-valiente", "url": "http://github.com/b-valiente" },
       { "network": "linkedin", "username": "bradleyvaliente", "url": "www.linkedin.com/in/bradley-valiente-3420b5167" },
-      { "network": "twitter", "username": "bvalie", "url": "http://twitter.com/bvalie" },
-      { "network": "instagram", "username": "bvalie", "url": "http://instagram.com/bvalie" }
     ]
   },
   "interests": [
