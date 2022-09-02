@@ -9,7 +9,7 @@ labels:
   - JavaScript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/JS.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/JS.png">
 
 <h2 id="How JavaScript Compares To Other Languages">How JavaScript Compares To Other Languages</h2>
 At the time of writing this, it’s been about 2 years since I’ve taken a programming class. JavaScript helped refresh my prior basic knowledge about programming such as what variables were, arrays, different loops and overall syntax. Before doing the introduction to JavaScript on freecodecamp, I’ve never used JavaScript before. In previous courses, we used Java and C/C++. When comparing JavaScript to Java, I’d say they’re pretty similar but the main difference that I enjoyed between the two was that JavaScript is more relaxed in terms of syntax and rules however, you can do a lot more in Java due to it being an Object Oriented Programming language while JavaScript is an object-based scripting language. When compared to C/C++, JavaScript is much simpler and easier to use due to the fact that everything is laid out for you and ready to use for the most part while in C you had to import various libraries in order for things to function.
