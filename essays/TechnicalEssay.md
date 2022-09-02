@@ -9,7 +9,7 @@ labels:
   - JavaScript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/SWE.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/SWE.jpg">
 
 <h2 id="What Major is Right for Me?">What Major is Right for Me?</h2>
 Growing up I was always interested in technology, especially Apple. I would watch all those tech vlog related videos and the apple keynotes all when I was in middle school. Going into my freshman year of high school, I ended up building my first PC. This is what sparked my interest in everything technology hardware and software. Combining both my interests in software and hardware, I chose computer science as my major.
