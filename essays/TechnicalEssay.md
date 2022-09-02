@@ -3,13 +3,13 @@ layout: essay
 type: essay
 title: "Software Engineering: Is It My Calling?"
 # All dates must be YYYY-MM-DD format!
-date: 2022-08-30
+date: 2022-09-02
 published: True
 labels:
   - JavaScript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/JS.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/SWE.png">
 
 <h2 id="What Major is Right for Me?">What Major is Right for Me?</h2>
 Growing up I was always interested in technology, especially Apple. I would watch all those tech vlog related videos and the apple keynotes all when I was in middle school. Going into my freshman year of high school, I ended up building my first PC. This is what sparked my interest in everything technology hardware and software. Combining both my interests in software and hardware, I chose computer science as my major.
