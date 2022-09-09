@@ -8,7 +8,7 @@ published: True
 labels:
   - Reflection
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/?.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Question.jpg">
 <h2 id="Smart Questions? Huh?">Smart Questions? Huh?</h2>
 Before reading the essay about How To Ask Questions the Smart Way by Eric Raymond, I didn’t know that there was a “right” and “wrong” way to ask questions. I did know there exists questions that aren’t the best such as “vague” questions that don’t really provide insight about what you’re asking for but this essay helped point out things that people do when asking questions that provide diminishing returns along with humiliation from your peers. The main idea that I got from reading the part of the essay about not smart questions is to always do your own research first before attempting to ask the question and to be as clear and concise as possible when asking your question. Chances are the issue that you are facing has been asked and maybe answered before in the past so doing your own research using google, reading a FAQ, reading the manual, asking a classmate or friend, or using other forum posts helps you and others from wasting time. If you do decide to ask your question, be clear and concise of what you want answered along with what you already tried and the outcomes of your attempts. People love to see that you’re trying to learn and that you’ve attempted it yourself before asking and mooching off of strangers' answers/help. Other small caveats that help create a smart question is to write in clear, grammatically correct language and not to ask for answers rather ask for hints to the solution.
 <h2 id="Example Of A Smart Question">Example Of A Smart Question</h2>
