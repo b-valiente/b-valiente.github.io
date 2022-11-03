@@ -35,6 +35,5 @@ published = True
 <ul>
 <li> Allow user to select skill level</li>
 <li> Message back and forth between potential partners/groups </li>
-<li>Achievements for being consistent</li>
-
+<li>Achievements and rewards for being consistent</li>
 </ul>
