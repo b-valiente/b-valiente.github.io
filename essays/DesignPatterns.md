@@ -7,6 +7,7 @@ labels:
 - Software Engineering
 - Design Patterns
 ---
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/patterns.png">
 <h2 id = "overview">Again And Again</h2>
 You'll begin to recognize as you code more often repeating strategies used time and time again. They might not be connected in any way, yet the structure of the code you write tends to be the same. These are known as design patterns. Design patterns are reusable approaches to addressing a typical issue that arises when creating an application. It provides a model or explanation on how to address the issue. These routines are designed to increase productivity and save time similar to a recursive function.
 <h2 id = "Approach"> Design Patterns In Action </h2>
@@ -14,4 +15,7 @@ You'll begin to recognize as you code more often repeating strategies used time 
 
 <h2 id = "basics"> Programmers are Lazy </h2>
 Aren't all of us programmers lazy and just hoping to find something that helps us cut down our project times? Design Patterns do just that. As long as we know how to use them, they allow for us to create applications while cutting down time and effort which is why understanding them is important.
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/lazy.jpg">
+
+
 
