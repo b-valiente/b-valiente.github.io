@@ -15,7 +15,7 @@ You'll begin to recognize as you code more often repeating strategies used time 
 
 <h2 id = "basics"> Programmers are Lazy </h2>
 Aren't all of us programmers lazy and just hoping to find something that helps us cut down our project times? Design Patterns do just that. As long as we know how to use them, they allow for us to create applications while cutting down time and effort which is why understanding them is important.
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/lazy.jpg">
+
 
 
 
