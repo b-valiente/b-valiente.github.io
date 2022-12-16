@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Making The Connection: Design Patterns"
+title: "ICS 314 In a Nutshell"
 date: 2022-12-15
 labels:
 - Software Engineering
