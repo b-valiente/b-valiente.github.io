@@ -1,0 +1,62 @@
+{
+  "basics": {
+    "name": "Bradley Valiente",
+    "label": "Student",
+    "picture": "https://github.com/b-valiente.png",
+    "email": "bv4.edu",
+    "phone": "808-773-3317",
+    "website": "https://b-valiente.github.io",
+    "summary": "I am studying for a B.A. in Computer Science with a focus on Cyber Secuirty at the University of Hawaii. I expect to graduate in Fall, 2023.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "b-valiente", "url": "http://github.com/b-valiente" },
+      { "network": "linkedin", "username": "bradleyvaliente", "url": "https://www.linkedin.com/in/bradleyvaliente/" },
+    ]
+  },
+  "interests": [
+    { "name": "Cyber Secuity" },
+    { "name": "Software Engineering" },
+    { "name": "AI" },
+    { "name": "UI Design" }
+   
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows", "Linux", "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2023)",
+      "studyType": "B.A.",
+      "startDate": "2018-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+     "company": "TBA"
+    }
+  ],
+  "volunteer": [
+    {
+      "Company": "TBA"
+    },
+    {
+      "Company": "TBA"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
